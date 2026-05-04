@@ -35,7 +35,7 @@ export default function PardaAurPaudayWebsite() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div>
             <div className="flex items-center gap-3">
-              <img src="/logo.jpg" alt="Parda Aur Pauday logo" className="h-12 w-12 rounded-full object-cover" />
+              <img src="/Logo.jpeg" alt="Parda Aur Pauday logo" className="h-12 w-12 rounded-full object-cover" />
               <div>
                 <h1 className="text-2xl font-bold tracking-tight">Parda Aur Pauday</h1>
                 <p className="text-sm text-neutral-600">Curtains, plants, and beautiful home styling</p>
@@ -61,7 +61,7 @@ export default function PardaAurPaudayWebsite() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('/cover.jpg')",
+              "url('/Cover Photo.jpg')",
           }}
         />
         <div className="absolute inset-0 bg-black/40" />
